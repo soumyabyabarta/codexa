@@ -1,0 +1,13 @@
+# Ignore Node Modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore Environment Variables (Very Important)
+.env
+client/.env
+server/.env
+
+# Ignore Temp files
+server/temp_repos/
+.DS_Store
